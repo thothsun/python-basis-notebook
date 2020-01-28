@@ -1,0 +1,1 @@
+![avatar](img/cover.png)
